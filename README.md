@@ -181,7 +181,6 @@ This project demonstrates how data analytics and visualization can help real est
 
 ## 📷 Dashboard Preview  
 
-_Add your dashboard screenshots below:_  
 
 ![Dashboard Image 1](https://github.com/ankesh4283/Real-Estate-Sales-Performance-Dashboard/blob/main/Screenshot%202026-03-27%20181948.png)  
-![Dashboard Image 2]([your-image-link-here](https://github.com/ankesh4283/Real-Estate-Sales-Performance-Dashboard/blob/main/Screenshot%202026-03-27%20182016.png))  
+![Dashboard Image 2](https://github.com/ankesh4283/Real-Estate-Sales-Performance-Dashboard/blob/main/Screenshot%202026-03-27%20182016.png)  
